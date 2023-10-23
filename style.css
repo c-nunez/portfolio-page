@@ -27,6 +27,9 @@ body {
     .rounded-4 {       
         border-radius: 0 !important;
     }
+    div.bg-dark {
+      background-color: transparent !important;
+    }
 }
 
 /* width */

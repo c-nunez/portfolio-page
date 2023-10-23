@@ -4,7 +4,6 @@ body {
     background-attachment: fixed;
 	animation: gradient 15s ease infinite;
 	height: 100vh;
-  -webkit-background-size: cover;
 }
 
 /* background gradient animation */

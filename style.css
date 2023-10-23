@@ -32,11 +32,13 @@ body {
       background-color: transparent !important;
     }
     img {
-      width: 150px !important;
+      width: 100px !important;
     }
     #tophero {
       display: flex;
       justify-content: end;
+      margin-right: 0px;
+      padding-right: 0px;
     }
 }
 
